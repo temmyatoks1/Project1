@@ -89,10 +89,10 @@
                                 <a href="http://3.84.37.187:8080/" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Jenkins</span></a>
                             </li>
                             <li>
-                                <a href="https://github.com/Srikantnh" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
+                                <a href="https://github.com/temmyatoks1" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
                             </li>
                             <li>
-                                <a href="https://bitbucket.org/sreekanth9989/webproject/src/master/" class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-fw"></i> <span class="network-name">BitBucket</span></a>
+                                <a href="https://bitbucket.org/temmyatoks1/webproject/src/master/" class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-fw"></i> <span class="network-name">BitBucket</span></a>
                             </li>
                         </ul>
                     </div>
@@ -188,10 +188,10 @@
                                 <a href="http://3.84.37.187:8080/" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Jenkins</span></a>
                             </li>
                             <li>
-                                <a href="https://github.com/Srikantnh" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
+                                <a href="https://github.com/temmyatoks1" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
                             </li>
                             <li>
-                                <a href="https://bitbucket.org/sreekanth9989/webproject/src/master/" class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-fw"></i> <span class="network-name">BitBucket</span></a>
+                                <a href="https://bitbucket.org/temmyatoks1/webproject/src/master/" class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-fw"></i> <span class="network-name">BitBucket</span></a>
                             </li>
                      </ul>
                 </div>
